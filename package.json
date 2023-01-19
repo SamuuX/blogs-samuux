@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "html-metadata-parser": "^2.0.2",
+    "html-metadata-parser": "^2.0.4",
     "rss-parser": "^3.12.0",
     "rss-to-json": "^2.0.2"
   },
